@@ -108,23 +108,5 @@ I'm a developer focused on backend and full-stack development. I like building r
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=CONNECT" alt="section label"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/bUecoding)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](YOUR_LINKEDIN_URL_HERE)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF)](YOUR_DISCORD_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:YOUR_EMAIL_HERE)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=555555&center=true&vCenter=true&width=280&lines=thanks+for+stopping+by" alt="footer typing"/>
 </div>
