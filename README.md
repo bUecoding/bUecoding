@@ -33,7 +33,7 @@
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif" width="100%" alt="gif placeholder"/>
+<img src="file:///home/dev/Downloads/Adobe%20Express%20-%20d3d5fba287e010e53caa08e9713fdd20_720w.gif" width="100%" alt="gif placeholder"/>
 
 </td>
 </tr>
