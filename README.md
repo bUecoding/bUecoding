@@ -95,19 +95,10 @@ I'm a developer focused on backend and full-stack development. I like building r
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=STATISTICS" alt="section label"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bUecoding&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=2A2A2A" width="46%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bUecoding&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&border_color=2A2A2A" width="35%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=bUecoding&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&border=2A2A2A" width="65%"/>
-
+<img src="assets/stats.svg" width="90%" alt="statistics panel"/>
 </div>
 
 <br/>
