@@ -26,18 +26,7 @@
 <tr>
 <td width="55%" valign="top">
 
-```
-
-┌─ /usr/bin/bUecoding ───────────────────────┐
-│                                             │
-│  USER      bUecoding                       │
-│  ROLE      Backend / Full-Stack Developer  │
-│  ORIGIN    Brazil                          │
-│  STATUS    Building...                     │
-│                                             │
-└─────────────────────────────────────────────┘
-
-```
+<img src="assets/terminal.svg" width="100%" alt="whoami terminal panel"/>
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -86,95 +75,14 @@ I'm a developer focused on backend and full-stack development. I like building r
 
 ## `~/stack`
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
+<div align="center">
 
-**LANGUAGES**
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
-YOUR_LANGUAGES_HERE
-
-</td>
-<td valign="top" width="25%">
-
-**BACKEND**
-
-YOUR_BACKEND_STACK_HERE
-
-</td>
-<td valign="top" width="25%">
-
-**DATABASES**
-
-YOUR_DATABASES_HERE
-
-</td>
-<td valign="top" width="25%">
-
-**TOOLS**
-
-YOUR_TOOLS_HERE
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## `~/projects`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<img src="YOUR_PROJECT_01_GIF_URL_HERE" width="100%" alt="project 1 gif placeholder"/>
-
-**YOUR_PROJECT_01**
-
-YOUR_PROJECT_01_DESCRIPTION
-
-`YOUR_PROJECT_01_STACK`
-
-[VIEW REPOSITORY →](YOUR_PROJECT_01_URL)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="YOUR_PROJECT_02_GIF_URL_HERE" width="100%" alt="project 2 gif placeholder"/>
-
-**YOUR_PROJECT_02**
-
-YOUR_PROJECT_02_DESCRIPTION
-
-`YOUR_PROJECT_02_STACK`
-
-[VIEW REPOSITORY →](YOUR_PROJECT_02_URL)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="YOUR_PROJECT_03_GIF_URL_HERE" width="100%" alt="project 3 gif placeholder"/>
-
-**YOUR_PROJECT_03**
-
-YOUR_PROJECT_03_DESCRIPTION
-
-`YOUR_PROJECT_03_STACK`
-
-[VIEW REPOSITORY →](YOUR_PROJECT_03_URL)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -192,20 +100,6 @@ YOUR_PROJECT_03_DESCRIPTION
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=bUecoding&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&border=2A2A2A" width="60%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `~/activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bUecoding&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true&border_color=2A2A2A&title_color=FFFFFF" width="90%"/>
 
 </div>
 
