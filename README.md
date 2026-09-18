@@ -5,14 +5,10 @@
 # bUecoding
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=460&lines=Backend+Engineer;Full-Stack+Developer;System+Builder;Software+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=AAAAAA&center=true&vCenter=true&width=460&lines=Backend+Engineer;Full-Stack+Developer;System+Builder;Software+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<sub>I don't just write code. I make systems work.</sub>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=bUecoding&style=flat-square&color=222222&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -46,7 +42,9 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="YOUR_GIF_URL_HERE" width="100%" alt="terminal visual"/>
+<img src="YOUR_GIF_URL_HERE" width="100%" alt="gif placeholder"/>
+
+<sub>place your gif here</sub>
 
 </td>
 </tr>
@@ -60,7 +58,7 @@
 
 ## `~/about`
 
-I'm a developer focused on backend and full-stack development, interested in building reliable systems and understanding how things work under the hood.
+I'm a developer focused on backend and full-stack development. I like building reliable systems and understanding how things work under the hood.
 
 <br/>
 
@@ -133,6 +131,8 @@ YOUR_TOOLS_HERE
 <tr>
 <td width="50%" valign="top">
 
+<img src="YOUR_PROJECT_01_GIF_URL_HERE" width="100%" alt="project 1 gif placeholder"/>
+
 **YOUR_PROJECT_01**
 
 YOUR_PROJECT_01_DESCRIPTION
@@ -143,6 +143,8 @@ YOUR_PROJECT_01_DESCRIPTION
 
 </td>
 <td width="50%" valign="top">
+
+<img src="YOUR_PROJECT_02_GIF_URL_HERE" width="100%" alt="project 2 gif placeholder"/>
 
 **YOUR_PROJECT_02**
 
@@ -156,6 +158,8 @@ YOUR_PROJECT_02_DESCRIPTION
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="YOUR_PROJECT_03_GIF_URL_HERE" width="100%" alt="project 3 gif placeholder"/>
 
 **YOUR_PROJECT_03**
 
@@ -232,14 +236,12 @@ YOUR_PROJECT_03_DESCRIPTION
 
 ```
 
-$ echo "Thanks for stopping by."
-Thanks for stopping by.
+$ echo "thanks for stopping by"
+thanks for stopping by
 $ _
 
 ```
 
-**bUecoding**
-
-<sub>keep building. keep breaking.</sub>
+<sub>bUecoding</sub>
 
 </div>
