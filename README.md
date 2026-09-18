@@ -35,8 +35,6 @@
 
 <img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif" width="100%" alt="gif placeholder"/>
 
-<sub>place your gif here</sub>
-
 </td>
 </tr>
 </table>
