@@ -20,16 +20,18 @@
 
 <br/>
 
-## `~/whoami`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=SYSTEM+INFO" alt="section label"/>
+</div>
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
 <img src="assets/terminal.svg" width="100%" alt="whoami terminal panel"/>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
 <img src="YOUR_GIF_URL_HERE" width="100%" alt="gif placeholder"/>
 
@@ -45,37 +47,38 @@
 
 <br/>
 
-## `~/about`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=ABOUT" alt="section label"/>
+</div>
 
+<p align="center">
 I'm a developer focused on backend and full-stack development. I like building reliable systems and understanding how things work under the hood.
+</p>
 
 <br/>
 
 ---
 
 <br/>
-
-## `~/current-focus`
-
-```
-
-→ Backend architecture
-→ APIs & services
-→ Databases
-→ Automation
-→ Full-stack development
-
-```
-
-<br/>
-
----
-
-<br/>
-
-## `~/stack`
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=CURRENT+FOCUS" alt="section label"/>
+
+<br/><br/>
+
+<img src="assets/focus.svg" width="80%" alt="current focus panel"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=STACK" alt="section label"/>
+
+<br/><br/>
 
 ![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
@@ -90,16 +93,20 @@ I'm a developer focused on backend and full-stack development. I like building r
 
 <br/>
 
-## `~/stats`
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bUecoding&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=2A2A2A" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bUecoding&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&border_color=2A2A2A" width="38%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=STATISTICS" alt="section label"/>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bUecoding&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&border=2A2A2A" width="60%"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bUecoding&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&border_color=2A2A2A" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bUecoding&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&border_color=2A2A2A" width="35%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=bUecoding&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&border=2A2A2A" width="65%"/>
 
 </div>
 
@@ -109,9 +116,10 @@ I'm a developer focused on backend and full-stack development. I like building r
 
 <br/>
 
-## `~/connect`
-
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=200&lines=CONNECT" alt="section label"/>
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/bUecoding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](YOUR_LINKEDIN_URL_HERE)
@@ -127,15 +135,5 @@ I'm a developer focused on backend and full-stack development. I like building r
 <br/>
 
 <div align="center">
-
-```
-
-$ echo "thanks for stopping by"
-thanks for stopping by
-$ _
-
-```
-
-<sub>bUecoding</sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=555555&center=true&vCenter=true&width=280&lines=thanks+for+stopping+by" alt="footer typing"/>
 </div>
