@@ -26,7 +26,7 @@
 
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="62%" valign="top">
 
 <img src="assets/terminal.svg" width="100%" alt="whoami terminal panel"/>
 
