@@ -33,7 +33,7 @@
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="YOUR_GIF_URL_HERE" width="100%" alt="gif placeholder"/>
+<img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif" width="100%" alt="gif placeholder"/>
 
 <sub>place your gif here</sub>
 
