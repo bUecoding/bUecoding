@@ -64,17 +64,17 @@
 
   <g class="row r1">
     <text x="28" y="100" class="label">TOTAL STARS</text>
-    <text x="28" y="128" class="value">YOUR_STARS_HERE</text>
+    <text x="28" y="128" class="value">243</text>
   </g>
 
   <g class="row r2">
     <text x="28" y="168" class="label">TOTAL REPOS</text>
-    <text x="28" y="196" class="value">YOUR_REPOS_HERE</text>
+    <text x="28" y="196" class="value">27</text>
   </g>
 
   <g class="row r3">
     <text x="28" y="236" class="label">TOTAL COMMITS</text>
-    <text x="220" y="236" class="value">YOUR_COMMITS_HERE</text>
+    <text x="220" y="236" class="value">132</text>
   </g>
 
   <g>
@@ -82,6 +82,6 @@
     <circle class="ring" cx="526" cy="145" r="70"/>
     <circle class="ring2" cx="526" cy="145" r="55"/>
     <text x="526" y="138" text-anchor="middle" class="streak-label">STREAK</text>
-    <text x="526" y="164" text-anchor="middle" class="streak-value">YOUR_STREAK_HERE</text>
+    <text x="526" y="164" text-anchor="middle" class="streak-value">19</text>
   </g>
 </svg>
