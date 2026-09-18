@@ -26,14 +26,14 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="52%" valign="top">
 
 <img src="assets/terminal.svg" width="100%" alt="whoami terminal panel"/>
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
-<img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif" width="100%"  height="240" alt="gif placeholder"/>
+<img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif" width="100%" alt="gif placeholder"/>
 
 </td>
 </tr>
