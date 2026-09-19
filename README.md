@@ -50,7 +50,7 @@
 </div>
 
 <p align="center">
-I'm a developer focused on backend and full-stack development. I like building reliable systems and understanding how things work under the hood.
+I'm a developer focused on backend and full-stack development.
 </p>
 
 <br/>
