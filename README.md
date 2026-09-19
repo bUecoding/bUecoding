@@ -2,7 +2,7 @@
 
 <br/>
 
-# bUecoding
+# 𝖇𝖀𝖊𝖈𝖔𝖉𝖎𝖓𝖌
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=AAAAAA&center=true&vCenter=true&width=460&lines=Backend+Engineer;Full-Stack+Developer;System+Builder;Software+Developer" alt="Typing SVG" />
